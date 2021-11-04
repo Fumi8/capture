@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/Fumi8/capture_test2/static/js/main.8ad20997.chunk.js",
+    "main.js.map": "/Fumi8/capture_test2/static/js/main.8ad20997.chunk.js.map",
+    "runtime-main.js": "/Fumi8/capture_test2/static/js/runtime-main.3896ab07.js",
+    "runtime-main.js.map": "/Fumi8/capture_test2/static/js/runtime-main.3896ab07.js.map",
+    "static/js/2.6826c5ce.chunk.js": "/Fumi8/capture_test2/static/js/2.6826c5ce.chunk.js",
+    "static/js/2.6826c5ce.chunk.js.map": "/Fumi8/capture_test2/static/js/2.6826c5ce.chunk.js.map",
+    "static/js/3.356671ea.chunk.js": "/Fumi8/capture_test2/static/js/3.356671ea.chunk.js",
+    "static/js/3.356671ea.chunk.js.map": "/Fumi8/capture_test2/static/js/3.356671ea.chunk.js.map",
+    "index.html": "/Fumi8/capture_test2/index.html",
+    "static/js/2.6826c5ce.chunk.js.LICENSE.txt": "/Fumi8/capture_test2/static/js/2.6826c5ce.chunk.js.LICENSE.txt",
+    "static/media/athlete-small.9c7a85d4.png": "/Fumi8/capture_test2/static/media/athlete-small.9c7a85d4.png",
+    "static/media/athlete2.b216a5ad.png": "/Fumi8/capture_test2/static/media/athlete2.b216a5ad.png",
+    "static/media/clock.4b7cde7e.svg": "/Fumi8/capture_test2/static/media/clock.4b7cde7e.svg",
+    "static/media/diaphragm.db801491.svg": "/Fumi8/capture_test2/static/media/diaphragm.db801491.svg",
+    "static/media/good-times2.4ea1be17.jpg": "/Fumi8/capture_test2/static/media/good-times2.4ea1be17.jpg",
+    "static/media/goodtimes-small.94ab060d.png": "/Fumi8/capture_test2/static/media/goodtimes-small.94ab060d.png",
+    "static/media/home1.9836de69.png": "/Fumi8/capture_test2/static/media/home1.9836de69.png",
+    "static/media/home2.a65a4256.png": "/Fumi8/capture_test2/static/media/home2.a65a4256.png",
+    "static/media/money.72da7c48.svg": "/Fumi8/capture_test2/static/media/money.72da7c48.svg",
+    "static/media/teamwork.aa71db2e.svg": "/Fumi8/capture_test2/static/media/teamwork.aa71db2e.svg",
+    "static/media/the-racer2.580f15cd.jpg": "/Fumi8/capture_test2/static/media/the-racer2.580f15cd.jpg",
+    "static/media/theracer-small.51874213.png": "/Fumi8/capture_test2/static/media/theracer-small.51874213.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3896ab07.js",
+    "static/js/2.6826c5ce.chunk.js",
+    "static/js/main.8ad20997.chunk.js"
+  ]
+}
